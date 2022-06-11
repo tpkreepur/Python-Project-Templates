@@ -5,7 +5,7 @@ Contains sample project structure for different python project types.
 
 ## Project Structures
 
-''
+```
 ├── cli-app
 │   ├── app.py
 │   ├── .gitignore
@@ -27,4 +27,4 @@ Contains sample project structure for different python project types.
     ├── README.md
     ├── requirements.txt
     └── setup.py
-''
+```
